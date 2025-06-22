@@ -1,1 +1,2 @@
-It is very basic code of FEM simulation of 2D sheet (Aluminum alloys). The code archetecture is design as per example 9.2 of Chapter-9 of First Course in Finite Elements by Fish and Belytschko
+This repository contains python code to practice FEM. To make simple, a 2D sheet  tensile loaded is simulated. The sheet is meshed with 4-element quadrilateral elements.
+
